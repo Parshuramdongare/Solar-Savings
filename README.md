@@ -86,18 +86,17 @@ npm install
 npm run dev
 ```
 
-## Contract Addresses (Testnet)
+## Contract Addresses & Transactions (Testnet)
 
-| Contract | Address |
-|---|---|
-| energy-registry | `CDBAP3YS3SONYSZVG3NQ64ZAL7A2VDXGSDK6FFLU4G7I7OMY3W3MBI2F` |
-| payout-splitter | `CC4HM56NIABMOTX3RF2C3PNTZI24CVJ6UXNAOT6ZKMCZX2RPZHVU3RI3` |
-| Deployer | `GBQVWRKSE2LQ6GJ2VO6YMZQE45LC3SKDLXUGC2C2KCWKN65A2XH24TVI` |
-| Network | Stellar Testnet |
-
-Explorer links:
-- [energy-registry on stellar.expert](https://stellar.expert/explorer/testnet/contract/CDBAP3YS3SONYSZVG3NQ64ZAL7A2VDXGSDK6FFLU4G7I7OMY3W3MBI2F)
-- [payout-splitter on stellar.expert](https://stellar.expert/explorer/testnet/contract/CC4HM56NIABMOTX3RF2C3PNTZI24CVJ6UXNAOT6ZKMCZX2RPZHVU3RI3)
+| Contract / Entity | Address / Value | Explorer Link / Tx Hash |
+|---|---|---|
+| **energy-registry** | `CDBAP3YS3SONYSZVG3NQ64ZAL7A2VDXGSDK6FFLU4G7I7OMY3W3MBI2F` | [Contract Page](https://stellar.expert/explorer/testnet/contract/CDBAP3YS3SONYSZVG3NQ64ZAL7A2VDXGSDK6FFLU4G7I7OMY3W3MBI2F) |
+| energy-registry Deployment | Tx: `a9a10f2d9d26f4a872e9593b7b0740784bbd7522a7206801957759f63a57cf20` | [Stellar Expert Tx](https://stellar.expert/explorer/testnet/tx/a9a10f2d9d26f4a872e9593b7b0740784bbd7522a7206801957759f63a57cf20) |
+| **payout-splitter** | `CC4HM56NIABMOTX3RF2C3PNTZI24CVJ6UXNAOT6ZKMCZX2RPZHVU3RI3` | [Contract Page](https://stellar.expert/explorer/testnet/contract/CC4HM56NIABMOTX3RF2C3PNTZI24CVJ6UXNAOT6ZKMCZX2RPZHVU3RI3) |
+| payout-splitter Deployment | Tx: `5fcaf0e0d589e71f9c3b6f39632a0cc97dae5c95288e30e7fe81b8453969c7ce` | [Stellar Expert Tx](https://stellar.expert/explorer/testnet/tx/5fcaf0e0d589e71f9c3b6f39632a0cc97dae5c95288e30e7fe81b8453969c7ce) |
+| **Oracle report_production** | Tx: `142e950e86143ec371b39069f262c5f4d08b101ac10505178fe4f1be853aa7d8` | [Stellar Expert Tx](https://stellar.expert/explorer/testnet/tx/142e950e86143ec371b39069f262c5f4d08b101ac10505178fe4f1be853aa7d8) |
+| Deployer Address | `GBQVWRKSE2LQ6GJ2VO6YMZQE45LC3SKDLXUGC2C2KCWKN65A2XH24TVI` | [Stellar Expert Account](https://stellar.expert/explorer/testnet/account/GBQVWRKSE2LQ6GJ2VO6YMZQE45LC3SKDLXUGC2C2KCWKN65A2XH24TVI) |
+| Network | Stellar Testnet | |
 
 ## Screenshots
 
