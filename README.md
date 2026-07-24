@@ -1,5 +1,8 @@
 # Solar Savings dApp
 
+## Live Demo
+🚀 **Live URL**: [https://frontend-alpha-murex-33.vercel.app](https://frontend-alpha-murex-33.vercel.app)
+
 Solar Savings is a decentralized application on the Stellar blockchain that tracks solar energy production, mints carbon credits, and distributes payouts to producers, maintenance funds, and buyers — all via auditable on-chain logic.
 
 The system combines two Soroban smart contracts, an oracle simulator, an event indexer, and a Next.js web interface to form a complete end-to-end renewable energy incentive platform.
