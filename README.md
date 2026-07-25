@@ -111,9 +111,9 @@ npm run dev
 
 ![Mobile UI](https://github.com/Parshuramdongare/Solar-Savings/blob/c12635c4e2b4384731f71845986dd0d6d6f77f7c/Screenshot%202026-07-24%20234435.png)
 
-### CI Run
-
 > _[### CI Status
+
+[![CI](https://github.com/Parshuramdongare/Solar-Savings/actions/workflows/ci.yml/badge.svg)](https://github.com/Parshuramdongare/Solar-Savings/actions)]_
 
 
 ### Test Output
