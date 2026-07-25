@@ -113,7 +113,9 @@ npm run dev
 
 ### CI Run
 
-> _[placeholder — see Actions tab after pushing to `main`]_
+> _[### CI Status
+
+[![CI](https://github.com/Parshuramdongare/Solar-Savings/actions/workflows/ci.yml/badge.svg)](https://github.com/Parshuramdongare/Solar-Savings/actions)]_
 
 ### Test Output
 
