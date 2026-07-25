@@ -109,7 +109,7 @@ npm run dev
 
 ### Mobile UI
 
-> _[https://github.com/Parshuramdongare/Solar-Savings/blob/a8dc520bf5522c745cfefca6c60c8a6ab61800a1/Screenshot%202026-07-24%20234435.png]_
+> _[https://github.com/Parshuramdongare/Solar-Savings/blob/c12635c4e2b4384731f71845986dd0d6d6f77f7c/Screenshot%202026-07-24%20234435.png]_
 
 ### CI Run
 
